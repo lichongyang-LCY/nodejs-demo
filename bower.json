@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-demo",
+  "description": "lcy creat in 2017-3-8 13:56",
+  "main": "",
+  "authors": [
+    "李重阳 <lichongyang@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
